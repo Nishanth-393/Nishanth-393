@@ -4,7 +4,7 @@ Hi 👋 My name is Nishanth
 Student
 -------
 
-Hotter than your stove.
+
 
 * 🌍  I'm based in Chennai, India
 * ✉️  You can contact me at [nishanthsingaravelan@gmail.com](mailto:nishanthsingaravelan@gmail.com)
