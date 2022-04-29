@@ -8,7 +8,7 @@ Student
 
 * 🌍  I'm based in Chennai, India
 * ✉️  You can contact me at [nishanthsingaravelan@gmail.com](mailto:nishanthsingaravelan@gmail.com)
-* 🧠  I'm learning Your MOM
+* 🧠  I'm learning 
 
 ### Skills
 
